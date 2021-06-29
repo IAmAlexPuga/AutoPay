@@ -25,7 +25,7 @@ public class Main extends Application {
         WebDriver obj = new ChromeDriver();
         obj.get("https://www.pse.com/en/account-and-billing/payment-options/guest-payment");
         launch(args);
-        //System.getProperties("webdriver.gecko.driver", "F:\\")
+
 
     }
 }
